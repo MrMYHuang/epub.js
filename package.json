@@ -1,6 +1,6 @@
 {
   "name": "epubjs-myh",
-  "version": "0.3.124",
+  "version": "0.3.125",
   "description": "Parse and Render Epubs",
   "main": "lib/index.js",
   "module": "src/index.js",

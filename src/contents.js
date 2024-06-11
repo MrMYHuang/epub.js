@@ -1101,7 +1101,7 @@ class Contents {
 
 		// Fix glyph clipping in WebKit
 		// https://github.com/futurepress/epub.js/issues/983
-		this.css("-webkit-line-box-contain", "inline block glyphs replaced");
+		//this.css("-webkit-line-box-contain", "inline block glyphs replaced");
 	}
 
 	/**
